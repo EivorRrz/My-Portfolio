@@ -2,7 +2,6 @@
 
 Welcome to my portfolio website repository built using React! This project showcases my skills and projects in web development.
 
-![Portfolio Preview](./preview.png)
 
 ## Project Overview
 
