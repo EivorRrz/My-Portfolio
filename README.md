@@ -1,11 +1,28 @@
+# Portfolio 
 
-### README Explanation
+Welcome to my portfolio website repository built using React! This project showcases my skills and projects in web development.
 
-- **Overview**: Introduces the repository as a portfolio website showcasing skills and projects.
-- **Features**: Highlights key features of the portfolio website.
-- **Installation**: Provides steps to clone and run the website locally.
-- **Usage**: Describes how to interact with different sections of the portfolio.
-- **Contributing**: Outlines the process for contributing improvements or suggestions.
-- **License**: Specifies the licensing terms for the project.
+![Portfolio Preview](./preview.png)
 
-This README.md template is structured to provide a clear understanding of your portfolio website repository, making it easier for visitors to explore and potentially contribute to your project. Adjust the content and sections based on your specific project details and preferences.
+## Project Overview
+
+This repository contains the code for my portfolio website, which includes sections for displaying projects, skills, and contact information.
+
+### Features
+
+- **Responsive Design**: Optimized for various screen sizes using Tailwind CSS.
+- **Dynamic Background**: Implemented using CSS gradients for an engaging visual experience.
+- **Modular Components**: Each section (`Navbar`, `Hero`, `Tech`, `Project`, `Contact`) is a reusable React component.
+- **Animations**: Utilizes Framer Motion for smooth animations and transitions.
+
+## Live Demo
+
+Explore the live demo of my portfolio website: [Portfolio Demo](https://eivor-portfolio.netlify.app/)
+
+## Installation and Usage
+
+To run the portfolio website locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/portfolio.git
