@@ -1,0 +1,11 @@
+.glow-purple {
+    background-color: #6a0dad;
+    color: #fff;
+    box-shadow: 0 0 5px rgba(106, 13, 173, 0.6), 0 0 10px rgba(106, 13, 173, 0.6);
+    transition: box-shadow 0.3s ease-in-out;
+  }
+  
+  .glow-purple:hover {
+    box-shadow: 0 0 10px rgba(106, 13, 173, 0.8), 0 0 20px rgba(106, 13, 173, 0.8);
+  }
+  
