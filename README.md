@@ -16,7 +16,7 @@ This repository contains the code for my portfolio website, which includes secti
 
 ## Live Demo
 
-Explore the live demo of my portfolio website: [Portfolio Demo](https://eivor-portfolio.netlify.app/)
+Explore the live demo of my portfolio website: [Portfolio Demo](https://eivorr-portfolio.netlify.app/)
 
 ## Installation and Usage
 
