@@ -35,10 +35,7 @@ To run the portfolio website locally:
    ```bash
    git clone https://github.com/your-username/portfolio.git
 
-2.Navigate to the project directory and install dependencies:
-```bash
-cd portfolio
-npm install
+
 
 
 
