@@ -1,7 +1,6 @@
-# Portfolio 
+# Portfolio
 
 Welcome to my portfolio website repository built using React! This project showcases my skills and projects in web development.
-
 
 ## Project Overview
 
@@ -17,6 +16,16 @@ This repository contains the code for my portfolio website, which includes secti
 ## Live Demo
 
 Explore the live demo of my portfolio website: [Portfolio Demo](https://eivorr-portfolio.netlify.app/)
+
+## Screenshots
+
+Here are some screenshots of my portfolio:
+
+- **Homepage**:
+  ![Homepage](Screenshot1.png)
+
+- **Projects Section**:
+  ![Projects Section](Screenshot2.png)
 
 ## Installation and Usage
 
